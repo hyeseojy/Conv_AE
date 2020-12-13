@@ -24,7 +24,7 @@ width      = 24
 height     = 24
 channel    = 3
 model_name = "models/conv_ae/digists"
-data_path  = "../../data_img/MNIST/train/"
+data_path  = "../../sample_data/mnist_train_small/"
 
 # Step 0: Global Parameters
 epochs     = 10
